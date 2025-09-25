@@ -4,4 +4,4 @@
 ## Student ID: 101481884 
 
 # GitHub Actions Status Badge
-[![CI](https://github.com/Sokmontrey/comp3104/actions/workflows/ci.yml/badge.svg)](https://github.com/Sokmontrey/comp3104/actions/workflows/ci.yml)
+[![CI](https://github.com/dancoopper/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/dancoopper/COMP3104/actions/workflows/ci.yml)
